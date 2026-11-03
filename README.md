@@ -1,8 +1,8 @@
-# 🚀 Smart Rental - Vehicle Rental Platform
+# 🚀 Fasto - Vehicle Rental Platform
 
 A modern, full-stack vehicle rental platform built with React, TypeScript, Firebase, and Tailwind CSS. Rent bikes and scooters for your trips with flexible return options and smart fleet management.
 
-![Smart Rental](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue) ![Firebase](https://img.shields.io/badge/Firebase-12.4-orange) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-cyan)
+![Fasto](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue) ![Firebase](https://img.shields.io/badge/Firebase-12.4-orange) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-cyan)
 
 ## 🌟 Features
 
@@ -47,8 +47,8 @@ A modern, full-stack vehicle rental platform built with React, TypeScript, Fireb
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/himanshuu004/smart-rental-app.git
-   cd smart-rental-app
+   git clone https://github.com/harleen-kaur-02/fasto.git
+   cd Fasto
    ```
 
 2. **Install dependencies**

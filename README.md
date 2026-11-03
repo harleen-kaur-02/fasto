@@ -160,15 +160,11 @@ smart-rental-app/
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Himanshu Rawat**
-- GitHub: [@himanshuu004](https://github.com/himanshuu004)
-- Email: [your-email@example.com]
+**Harleen Kaur**
+- GitHub: [@harleen-kaur-02](https://github.com/harleen-kaur-02)]
 
 ## 🙏 Acknowledgments
 
@@ -181,8 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
 
----
 
 **Made with ❤️ for the future of vehicle rental**
